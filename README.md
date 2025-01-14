@@ -54,4 +54,4 @@
 
 ## License
 
-[OpenZeppelin License Example](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/LICENSE)
+(https://github.com/Losavage-dev/Blockchain-Assignment1/blob/main/LICENSE)
